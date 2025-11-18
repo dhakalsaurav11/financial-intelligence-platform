@@ -116,15 +116,15 @@ The Reports tab includes support for:
 
 ## 🔍 Features
 
-- 📈 Budget and spending analytics  
-- 🧾 Contractor overview with statuses and priorities  
-- 🧮 Monthly financial trend visualization  
-- 🗂 Invoice and report management  
-- ⚡ Figma-accurate component system  
-- 🧹 ETL pipeline design (backend in progress)  
-- 🔄 Data import (CSV/Excel/API)  
-- 🧠 Forecasting logic (planned)  
-- 📄 Downloadable and scheduled reports  
+- Budget and spending analytics  
+- Contractor overview with statuses and priorities  
+- Monthly financial trend visualization  
+- Invoice and report management  
+- Figma-accurate component system  
+- ETL pipeline design (backend in progress)  
+- Data import (CSV/Excel/API)  
+- Forecasting logic (planned)  
+- Downloadable and scheduled reports  
 
 ---
 
