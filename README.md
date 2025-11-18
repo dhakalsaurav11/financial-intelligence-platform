@@ -63,16 +63,16 @@ After generation, I restructured the layout, optimized styles, and added:
 ## Screenshots
 
 ### **Dashboard Overview**
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard-overview.png)
 
 ### **Contractor Management**
-![Contractors](screenshots/contractors.png)
+![Contractors](screenshots/contractor-management-table.png)
 
 ### **Budget Analytics**
-![Analytics](screenshots/analytics.png)
+![Analytics](screenshots/analytics-charts.png)
 
 ### **Automated Reporting**
-![Reports](screenshots/reports.png)
+![Reports](screenshots/reports-automation-overview.png)
 
 *(Replace the image paths with your actual files: `/screenshots/...png`)*
 
