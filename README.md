@@ -73,9 +73,6 @@ After generation, I restructured the layout, optimized styles, and added:
 
 ### **Automated Reporting**
 ![Reports](screenshots/reports-automation-overview.png)
-
-*(Replace the image paths with your actual files: `/screenshots/...png`)*
-
 ---
 
 ## How It Works
