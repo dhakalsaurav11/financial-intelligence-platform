@@ -73,6 +73,9 @@ After generation, I restructured the layout, optimized styles, and added:
 
 ### **Automated Reporting**
 ![Reports](screenshots/reports-automation-overview.png)
+
+### **PowerBI Integration**
+![Reports](screenshots/power-bi.png)
 ---
 
 ## How It Works
